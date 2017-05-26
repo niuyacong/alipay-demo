@@ -1,0 +1,4 @@
+H:\案例\alipay-demo\alipay-demo\bin\alipay-demo.dll
+H:\案例\alipay-demo\alipay-demo\bin\alipay-demo.pdb
+H:\案例\alipay-demo\alipay-demo\obj\Debug\alipay-demo.dll
+H:\案例\alipay-demo\alipay-demo\obj\Debug\alipay-demo.pdb
